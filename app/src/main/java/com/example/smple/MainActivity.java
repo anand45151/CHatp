@@ -15,6 +15,6 @@ public class MainActivity extends AppCompatActivity {
     public void get(){
         int id ;
         String name ;
-        
+        String Lname;
     }
 }
